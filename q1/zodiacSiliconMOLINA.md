@@ -7,3 +7,6 @@ else:
 
     index = (birth_year - 1900) % 12
     print(f"Congrats! Your Chinese Zodiac Sign is {zodiac[index]}!")
+
+<img width="1875" height="178" alt="image" src="https://github.com/user-attachments/assets/328d733d-4a6a-4bd6-8658-787c833752d3" />
+<img width="740" height="92" alt="image" src="https://github.com/user-attachments/assets/1ea4cad4-f741-41de-bdde-0d6f0b982c3c" />
