@@ -35,5 +35,6 @@ START
 - Staff prepares student's food
 - Staff notifies student when food is ready
 - Remove the student on queue when food is ready
+
 END
 ---
