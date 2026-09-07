@@ -15,7 +15,8 @@
 | addToLikedSongs() | Mark the song as liked | 
 | showLyrics() | Show the lyrics of the song | 
 ## Class Diagram  
-![Class Diagram](images/classDiagram.png) 
+<img width="718" height="714" alt="image" src="https://github.com/user-attachments/assets/c715ba63-7d9f-472e-9ee4-8b5f5012439e" />
+
 ## Design Explanation 
 ### Why did you choose this class? 
 I chose this class because I like music and I thought that music class will be more easier for me than the other class.
