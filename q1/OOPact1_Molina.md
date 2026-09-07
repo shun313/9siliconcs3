@@ -2,17 +2,17 @@
 ## Music Track
 ## A music track represents a song in a music library or playlist.
 ## Properties 
-|Property|Data Type|Description| 
-|Title|String|The title of the song|
-|Genre|String|The genre used on the song|
-|Artist|String|Name of the artist that sang the song|
-|Like|Boolean|Whether you like the song or not|
+|Property |Data Type |Description | 
+|Title |String |The title of the song |
+|Genre |String |The genre used on the song |
+|Artist |String |Name of the artist that sang the song |
+|Like |Boolean |Whether you like the song or not |
 ## Methods 
-|Method|Description| 
-|play()|starts playing the song|
-|addToLikedSongs()|mark the song as liked| 
-|showLyrics()|show the lyrics of the song| 
-## Class Diagram 
+|Method |Description | 
+|play() |starts playing the song |
+|addToLikedSongs() |mark the song as liked | 
+|showLyrics() |show the lyrics of the song | 
+## Class Diagram  
 ![Class Diagram](images/classDiagram.png) 
 ## Design Explanation 
 ### Why did you choose this class? 
