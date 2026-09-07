@@ -9,9 +9,9 @@
 | Like | Boolean | whether you like the song or not |
 ## Methods 
 | Method | Description | 
-|  |  |
-|  |  | 
-|  |  | 
+| play() | starts playing the song |
+| addToLikedSongs() | mark the song as liked | 
+| showLyrics() | show the lyrics of the song | 
 ## Class Diagram 
 ![Class Diagram](images/classDiagram.png) 
 ## Design Explanation 
