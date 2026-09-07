@@ -20,6 +20,6 @@
 ### Why did you choose this class? 
 I chose this class because I like music and I thought that music class will be more easier for me than the other class.
 ### Which property is the most important? Why? 
-The most important property is genre, because 
-### Which method is the most useful? Why? 
+The most important property is genre, because it organizes songs are grouped based on their type of music.
+### Which method is the most useful? Why? play(), because it allows you to listen to the music and enjoy it.
 
