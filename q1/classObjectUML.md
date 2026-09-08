@@ -1,3 +1,7 @@
+## Design Revision
+Changes from my previous design:
+- I changed Like to isLiked to make the property name clearer.
+
 # SG4 - Understanding Classes and Objects 
 ## Music Track
 ## A music track represents a song in a music library or playlist.
