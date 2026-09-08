@@ -36,9 +36,13 @@ Describe any changes made to your original class.
 ## Analysis
 
 ### Why did you make your chosen attribute private?
+It prevents tampering and keeps the user's privacy hidden. It also keeps the program organized and protected.
 
 ### Which method changes the state of your object?
+The blockArtist() method changes the object's state by changing the blocked status from False to True.
 
 ### How did your two objects demonstrate that instances are independent?
+Changing Object 1's blocked status did not affect Object 2. Object 1 became True, while Object 2 stayed False.
 
 ### What is the difference between your class diagram and your object diagram?
+The class diagram shows the blueprint of the MusicTrack class. The object diagram shows the actual values of the two objects created from that class.
