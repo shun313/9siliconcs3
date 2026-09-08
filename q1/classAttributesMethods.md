@@ -23,7 +23,8 @@ Describe any changes made to your original class.
 
 ## Python Implementation
 
-blob:https://www.facebook.com/31053613-c248-4196-ae6c-b01cf0b1aab5
+[Uploading 31053613-c248-4196-ae6c-b01cf0b1aab5…]()
+
 
 ## Test Run
 
