@@ -1,6 +1,7 @@
 ## Design Revision
 Changes from my previous design:
-- I changed Like to isLiked to make the property name clearer.
+- I changed the Like concept to isBlocked which shows whether you blocked a specific artist.
+- I changed the addToLikedSongs() method to getBlocked() which is the option to block artists.
 
 # SG4 - Understanding Classes and Objects 
 ## Music Track
