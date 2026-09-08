@@ -31,7 +31,7 @@ Describe any changes made to your original class.
 
 ## Object Diagram
 
-![Object Diagram](images/objectDiagram.png)
+<img width="881" height="885" alt="image" src="https://github.com/user-attachments/assets/c327110a-f593-45b4-a00d-57ba32455651" />
 
 ## Analysis
 
