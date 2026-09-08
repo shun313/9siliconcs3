@@ -7,10 +7,10 @@ Link to my previous activity:
 ## Design Revision
 Describe any changes made to your original class.
 - I changed the Like concept to isBlocked which shows whether you blocked a specific artist.
+- I changed the addToLikedSongs() method to getBlocked() which is the option to block artists.
 
 ## Visibility Decisions
 | Attribute | Data Type | Visibility | Reason |
-
 |---|---|---|---|
 | Title | String | Public | Essential identifier that can be easily searched |
 | Genre | String | Public | Information used to recommend songs matching the users preferences | 
@@ -19,7 +19,7 @@ Describe any changes made to your original class.
 
 ## Updated UML Class Diagram
 
-![Class Diagram](images/classDiagramSG5.png)
+<img width="720" height="717" alt="image" src="https://github.com/user-attachments/assets/64344b27-4b6a-4b76-866e-1d99c6ed792e" />
 
 ## Python Implementation
 
