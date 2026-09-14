@@ -4,7 +4,7 @@ Changes from my previous design:
 - I changed the addToLikedSongs() method to getBlocked() which is the option to block artists.
 
 # SG4 - Understanding Classes and Objects 
-## Music Track
+## MusicTrack
 ## A music track represents a song in a music library or playlist.
 ## Properties 
 | Property | Data Type | Description | 
