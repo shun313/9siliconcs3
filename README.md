@@ -6,7 +6,7 @@
 # Activities
 [Computational Thinking Excercise](ctskillsSiliconMolina.md) 
 
-[Chinese Zodiac](zodiacSiliconMOLINA.md)
+[Chinese Zodiac](q1/zodiacSiliconMOLINA.md)
 
 [OOP Concept](ila_oop.md)
 
