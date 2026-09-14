@@ -4,14 +4,14 @@
 ## My mbti is ENFP
 
 # Activities
-[Computational Thinking Excercise](ctskillsSiliconMolina.md) 
+[Computational Thinking Excercise](q1/ctskillsSiliconMolina.md) 
 
 [Chinese Zodiac](q1/zodiacSiliconMOLINA.md)
 
-[OOP Concept](ila_oop.md)
+[OOP Concept](q1/ila_oop.md)
 
-[OOPAct](classObjectUML.md)
+[OOPAct](q1/classObjectUML.md)
 
-[OOPAct-PartII](classAttributesMethods.md)
+[OOPAct-PartII](q1/classAttributesMethods.md)
 
-[OOPAct-PartThree](classRelationships.md)
+[OOPAct-PartThree](q1/classRelationships.md)
