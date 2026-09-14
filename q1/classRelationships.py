@@ -50,11 +50,11 @@ print(f"Playlist: {playlist1.name}")
 print("Tracks:", playlist1.tracks)
 
 
-print("\nBuilding association")
+print("\nBuilding association:")
 playlist1.addTrack(song1)
 playlist1.addTrack(song2)
 playlist1.addTrack(song3)
 
 
-print("\nAfter association")
+print("\nAfter association:")
 playlist1.showTracks()
