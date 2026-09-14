@@ -4,16 +4,16 @@
 [Part II - Class Attributes and Methods](classAttributesMethods.md) 
 ## Existing Class 
 Class: MusicTrack
-Description: A MusicTrack represents a song in a music library or playlist.
+Description: A MusicTrack represents a song and contains information about it's title, genre, artist, and blocked status, it also represents a song in a music library or playlist.
 ## New Related Class 
-Class: Playlist
-Description: A playlist represents a storage, it includes songs the user has added in that specific playlist
+Class: PlayList
+Description: A playList represents a storage, it includes songs the user has added in that specific PlayList
 ## Association 
-Relationship: Playlist contains MusicTrack
-Explanation: A playlist can contain multiple MusicTracks objects.
+Relationship: PlayList contains MusicTrack
+Explanation: A PlayList can contain multiple MusicTracks objects.
 ## Multiplicity
 Multiplicity: 0..*
-Explanation: 
+Explanation: A PlayList can have multiple MusicTrack objects or none.
 ## UML Class Relationship Diagram 
 ![Class Relationship Diagram](images/classRelationshipDiagram.png) 
 ## Python Implementation 
