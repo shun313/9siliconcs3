@@ -1,9 +1,19 @@
-## I am Shun Angelo A. Molina from 9 - Silicon
-## I am from Virac, Catanduanes
-## My email is saasmolina@brc.pshs.edu.ph
-## My mbti is ENFP
+# Computer Science 3 Portfolio
 
-# Activities
+## Student Information
+
+**Name:** Shun Angelo A. Molina
+
+**Section:** 9 - Silicon
+
+**School Year:** 2026-2027
+
+---
+
+# Quarter 1 
+  
+## Activities
+
 [Computational Thinking Excercise](q1/ctskillsSiliconMolina.md) 
 
 [Chinese Zodiac](q1/zodiacSiliconMOLINA.md)
