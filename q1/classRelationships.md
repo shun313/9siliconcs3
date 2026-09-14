@@ -15,8 +15,7 @@ Explanation: A PlayList can contain multiple MusicTracks objects.
 Multiplicity: 0..*
 Explanation: A PlayList can have multiple MusicTrack objects or none.
 ## UML Class Relationship Diagram 
-![Class Relationship Diagram](images/classRelationshipDiagram.png) <img width="1249" height="625" alt="image" src="https://github.com/user-attachments/assets/9cc0b02d-7d25-40ae-8f4e-f92e6d5c7db5" />
-
+![Class Relationship Diagram](images/classRelationshipDiagram.png)
 ## Python Implementation 
 [View Python Source](classRelationships.py) 
 ## Test Run 
