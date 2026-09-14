@@ -4,10 +4,10 @@
 [Part II - Class Attributes and Methods](classAttributesMethods.md) 
 ## Existing Class 
 Class: MusicTrack
-Description: A music track represents a song in a music library or playlist.
+Description: A MusicTrack represents a song in a music library or playlist.
 ## New Related Class 
 Class: Playlist
-Description: 
+Description: A playlist represents a storage where you have the songs in
 ## Association 
 Relationship: Playlist contains MusicTrack
 Explanation: A playlist can contain multiple MusicTracks objects.
