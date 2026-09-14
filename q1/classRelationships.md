@@ -3,14 +3,14 @@
 [Part I - Classes and Objects](classObjectUML.md) 
 [Part II - Class Attributes and Methods](classAttributesMethods.md) 
 ## Existing Class 
-Class: 
+Class: MusicTrack
 Description: 
 ## New Related Class 
-Class: 
+Class: Playlist
 Description: 
 ## Association 
-Relationship: 
-Explanation: 
+Relationship: Playlist contains MusicTrack
+Explanation: A playlist can contain multiple MusicTracks objects.
 ## Multiplicity
 Multiplicity: 
 Explanation: 
