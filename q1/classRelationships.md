@@ -4,7 +4,7 @@
 [Part II - Class Attributes and Methods](classAttributesMethods.md) 
 ## Existing Class 
 Class: MusicTrack
-Description: 
+Description: A music track represents a song in a music library or playlist.
 ## New Related Class 
 Class: Playlist
 Description: 
