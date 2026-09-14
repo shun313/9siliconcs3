@@ -25,12 +25,16 @@ Explanation: A PlayList can have multiple MusicTrack objects or none.
 ![Object Relationship Diagram](images/objectRelationshipDiagram.png) 
 ## Analysis 
 ### What is the association between your two classes? 
+The association between the two classes is that a PlayList contains MusicTrack objects. It is used to organize different MusicTrack objects together.
 
 ### What multiplicity did you choose and why? 
+I choose a zero-to-many multiplicity. This means that one PlayList can contain zero or plenty MusicTrack objects.
 
 ### How did you implement the relationship in Python? 
+I implemented the relationship by creating a tracks list inside the Playlist class. The addTrack() method adds a MusicTrack object to the list.
 
 ### Why did you store an object reference instead of copying its data? 
+I stored an object for reference so the Playlist can access the actual MusicTrack object and its information.
 
 ### If your relationship uses many, why is a list appropriate? 
-
+A list is appropriate because one PlayList can contain many MusicTrack objects. More MusicTrack objects can be addedd to the list using the addTrack() method.
