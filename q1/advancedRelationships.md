@@ -2,10 +2,11 @@
 ## Previous Activities
 [classAttrib](classAttributesMethods.md)
 [classRel](classRelationships.md)
-## Existing System Description: 
+## Existing System Description
 The system contains two classes, MusicTrack and Playlist. The musicTrack class represents individual songs with attributes such as title, genre, artist, and block status. The Playlist class contains music tracks and allows multiple tracks to be in the same Playlist
 ## Inheritance Relationship
 Parent: MusicTrack
+
 Child: LikedTrack
 Explanation: LikedTrack is a specialized type of MusicTrack. It inherits the general attributes and methods of MusicTrack while adding its own feature for representing a track that has been liked by the user
 ## Inheritance UML
