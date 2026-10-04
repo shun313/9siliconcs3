@@ -13,6 +13,7 @@ Explanation: LikedTrack is a specialized type of MusicTrack. It inherits the gen
 ![Inheritance](images/inheritanceDiagram.png)
 ## Composition/Aggregation
 Relationship: Aggregation
+
 Explanation: PlayList has a weak has-a relationship with MusicTrack. A Playlist can contain multiple music tracks, but the tracks can still exist independently even if the Playlist is deleted
 ## Advanced UML Diagram
 ![Advanced UML](images/advancedClassDiagram.png)
