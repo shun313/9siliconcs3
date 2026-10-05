@@ -24,4 +24,6 @@
 
 [OOPAct-PartII](q1/classAttributesMethods.md)
 
-[OOPAct-PartThree](q1/classRelationships.md)
+[OOPAct-PartIII](q1/classRelationships.md)
+
+[OOPAct-PartIV](q1/advancedRelationships.md)
