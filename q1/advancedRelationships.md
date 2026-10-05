@@ -2,7 +2,7 @@
 ## Previous Activities
 [classAttributesMethods](classAttributesMethods.md)
 
-[classRelationships.md](classRelationships.md)
+[classRelationships](classRelationships.md)
 ## Existing System Description
 The system contains two classes, MusicTrack and Playlist. The musicTrack class represents individual songs with attributes such as title, genre, artist, and block status. The Playlist class contains music tracks and allows multiple tracks to be in the same Playlist
 ## Inheritance Relationship
