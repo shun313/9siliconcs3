@@ -36,4 +36,4 @@
 
 [Encapsulation](q2/sg8_encapsulation.py)
 
-[Library Management System](Inheritance.md)
+[Library Management System](q2/Inheritance.md)
