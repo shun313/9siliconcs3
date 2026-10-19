@@ -27,3 +27,11 @@
 [OOPAct-PartIII](q1/classRelationships.md)
 
 [OOPAct-PartIV](q1/advancedRelationships.md)
+
+---
+
+# Quarter 2
+
+## Activities
+
+[Encapsulation](q2/sg8_encapsulation.py)
